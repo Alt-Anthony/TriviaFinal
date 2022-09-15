@@ -1,9 +1,8 @@
 # trivia del Perú
 
-[Demo](https://replit.com/@Aprendopython/TriviaFinal)
-
+[Demo](https://replit.com/@Aprendopython/TriviaFinal)x
 ## pregunta
 
 #Licencia
 
-mti 
+MIT
