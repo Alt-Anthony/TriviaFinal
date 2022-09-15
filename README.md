@@ -1,6 +1,6 @@
 # trivia del Perú
 
-[Demo](https://replit.com/@Aprendopython/TriviaFinal)x
+[Demo](https://replit.com/@Aprendopython/TriviaFinal)
 ## pregunta
 
 #Licencia
