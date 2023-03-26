@@ -4,8 +4,11 @@ Primer proyecto de este repositorio
 
 
 [Demo](https://replit.com/@Aprendopython/TriviaFinal)
-## pregunta
-
+## Preguntas
+10
+## Tiempo estimado
+5 minutos
 #Licencia
 
 MIT
+
