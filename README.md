@@ -1,6 +1,6 @@
 # trivia del Perú
 
-Primer proyecto de este repositorio
+Primer proyecto de Github
 
 
 [Demo](https://replit.com/@Aprendopython/TriviaFinal)
